@@ -1,1 +1,1 @@
-# FSTI-chatbot
+# F(STI)-chatbot
